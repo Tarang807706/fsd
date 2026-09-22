@@ -1,6 +1,5 @@
 //hosting
 
-
 // console.log(name);
 // var name="tarang";
 
@@ -87,3 +86,8 @@
 
 // }, 0);
 // console.log(maximum);
+
+
+
+
+/////////promisee/////
